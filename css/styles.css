@@ -9,6 +9,7 @@ body {
 
 a {
     font-weight: 600;
+    font-size:1.4em;
     color: cornflowerblue;
     text-decoration: none;
 }
@@ -44,6 +45,13 @@ ul {
     list-style-type: none;
 }
 
+footer {
+    height: 80px;
+    margin-top: 1em;
+    border-top: 1px solid cornflowerblue;
+    background-color: rgba(100,149,237,0.15);
+    
+}
 }
 #nav {
     list-style-type: none;
